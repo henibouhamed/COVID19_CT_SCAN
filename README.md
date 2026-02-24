@@ -5,8 +5,8 @@ In this project, we aim to develop a deep learning model that classifies whether
 
 ## 📂 Dataset Description
 In the **`Data`** folder, you will find the **transformed database**:
-- **68 COVID-19 images**
-- **68 Non-COVID-19 images**
+- **72 COVID-19 images**
+- **72 Non-COVID-19 images**
 
 These images were collected from the **Pulmonology** and **Radiology** departments of **Hédi Chaker** and **Habib Bourguiba** hospitals in **Sfax**.
 
